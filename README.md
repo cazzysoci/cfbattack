@@ -6,5 +6,5 @@ CFB ATTACK HTTP RAW
 
  cd cfbattack
 
- node CFB.js https://example.com 100 proxy.txt
+ node CFB.js https://example.com 1000 100 proxy.txt
 ```
