@@ -91,14 +91,14 @@ const dateObj = new Date();
 ██║  ██║   ██║      ██║   ██║  ██║╚██████╗██║  ██╗    ███████║███████╗██║ ╚████║   ██║       ██████╔╝██║ ╚═╝ ██║   ██║       ███████║╚██████╗██║  ██║██║██║        ██║   
 ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═════╝ ╚═╝     ╚═╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   
                                                                                                                                                                          
-SCRIPT HTTP-RAW | BUY TOOL DDOS IB ZALO : 0337021245 | GITHUB : DagTriZaker | Fb.com/dangtriofficial.3107  
+SCRIPT CF-BYPASS HTTP-RAW | GITHUB : cazzysoci
 
 ----------------------------------------------------------------------------------------------------------------------
-ATTACK-SENT ! |DMT SCIPT|    
-ATTACK-SENT ! |DMT SCIPT|          
-ATTACK-SENT ! |DMT SCIPT| 
-ATTACK-SENT ! |DMT SCIPT| 
-ATTACK-SENT ! |DMT SCIPT|`);
+ATTACK-SENT ! |cazzysoci|    
+ATTACK-SENT ! |cazzysoci|          
+ATTACK-SENT ! |cazzysoci| 
+ATTACK-SENT ! |cazzysoci| 
+ATTACK-SENT ! |cazzysoci|`);
 
 
     for(var bb=0;bb<thread;bb++) {
